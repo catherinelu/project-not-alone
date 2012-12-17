@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="CustomDialog" parent="android:style/Theme.Dialog">
+		<item name="android:windowBackground">@null</item> <!-- gets rid of white outline -->
+		<item name="android:windowNoTitle">true</item>  <!-- gets rid of space left for title -->
+		<item name="android:windowIsFloating">true</item> <!--  don't know what this does. Maybe i should remove -->
+		<!-- <item name="android:backgroundDimEnabled">false</item> --><!-- gets rid of dimming effect when dialog appears -->
+	</style>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			 android:id="@+id/frame"
+			 android:orientation="vertical"
+			 android:background="#FFFFFF"
+			 android:layout_width="fill_parent"
+			 android:layout_height="fill_parent">
+<!-- 			 <SurfaceView xmlns:android="http://schemas.android.com/apk/res/android"
+ 					   android:id="@+id/quizVideo"
+  					   android:layout_width="@dimen/video_width"
+  					   android:layout_height="@dimen/video_height"
+  					   android:layout_gravity="bottom"
+  					   android:foregroundGravity="bottom"
+			  />  -->
+			  <SurfaceView xmlns:android="http://schemas.android.com/apk/res/android" 
+			  		   android:id="@+id/quizVideo"
+  					   android:layout_width="fill_parent"
+  					   android:layout_height="fill_parent"
+  					   android:layout_gravity="bottom"
+  					   android:foregroundGravity="bottom"
+  			  />
+			  <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+			 				  android:id="@+id/relButtons"
+			 				  android:background="#0000"
+			 				  android:layout_alignTop="@id/quizVideo"
+			 				  android:layout_alignBottom="@id/quizVideo"
+			  				  android:layout_gravity="top"
+			  				  android:foregroundGravity="top"
+			  				  android:layout_width="fill_parent"
+			  				  android:layout_height="fill_parent">
+			  </RelativeLayout>
+</RelativeLayout>

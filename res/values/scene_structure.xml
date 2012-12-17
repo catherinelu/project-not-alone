@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- INTRODUCTORY QUIZ -->
+		<!-- What is NOT a reason people get depressed? -->
+	<array name="scene_1">
+		<item>answers/quiz_1.0</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/intro_quiz_1_what_is_not_a_reason_people_get_depressed.mp3</item>
+		<item>"5"</item>
+	</array>
+		<!-- How many kinds of depression are there? -->
+	<array name="scene_2">
+		<item>answers/quiz_1.1</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/intro_quiz_2_how_many_kinds_of_depression_are_there.mp3</item>
+		<item>"5"</item>
+	</array>
+		<!-- Can you be depressed and not know it? -->
+	<array name="scene_3">
+		<item>answers/quiz_1.2</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/intro_quiz_3_can_you_be_depressed_and_not_know_it.mp3</item>
+		<item>"5"</item>
+	</array>
+		<!-- Is severe depression a regular response to life or is it a serious disease? -->
+	<array name="scene_4">
+		<item>answers/quiz_1.3</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/intro_quiz_4_is_severe_depression_a_regular_response.mp3</item>
+		<item>"5"</item>
+	</array>
+		<!-- What percentage of people in the United States are estimated to suffer from depression? -->
+	<array name="scene_5">
+		<item>answers/quiz_1.4</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/intro_quiz_5_what_percent_of_people_in_the_united_states.mp3</item>
+		<item>"5"</item>
+	</array>
+	
+	<!-- SYMPTOMS -->
+	<!-- Symptoms Info -->
+		<!-- Symptoms -->
+	<array name="scene_6">
+		<item>intro_noone_video.mp4</item>
+		<item>mp3s/symptoms_section_1_symptoms.mp3</item>
+		<item>symptoms</item>
+		<item>"7"</item>
+	</array>
+		<!-- Not Enjoying What You Used To -->
+	<array name="scene_7">
+		<item>use_to_love_video.mp4</item>
+		<item>mp3s/symptoms_section_2_not_enjoying.mp3</item>
+		<item>not_enjoying</item>
+		<item>"7"</item>
+	</array>
+		<!-- Thinking You Are Bad -->
+	<array name="scene_8">
+		<item>success_failure_video.mp4</item>
+		<item>mp3s/symptoms_section_3_thinking_you_are_bad.mp3</item>
+		<item>thinking_bad</item>
+		<item>"7"</item>
+	</array>
+		<!-- Thinking of Hurting Yourself -->
+	<array name="scene_9">
+		<item>ouch_video.mp4</item>
+		<item>mp3s/symptoms_section_4_thinking_of_hurting_yourself.mp3</item>
+		<item>thinking_hurting</item>
+		<item>"7"</item>
+	</array>
+		<!-- Trouble Sleeping and Eating -->
+	<array name="scene_10">
+		<item>insomnia_video.mp4</item>
+		<item>mp3s/symptoms_section_5_trouble_sleeping_and_eating.mp3</item>
+		<item>trouble_sleeping</item>
+		<item>"7"</item>
+	</array>
+		<!-- Difficulty Focusing -->
+	<array name="scene_11">
+		<item>focus_video.mp4</item>
+		<item>mp3s/symptoms_section_6_difficulty_focusing.mp3</item>
+		<item>difficulty_focusing</item>
+		<item>"7"</item>
+	</array>
+		<!-- No Single Symptom Proves That You Have Depression -->
+	<array name="scene_12">
+	    <item>walk_video.mp4</item>
+		<item>mp3s/symptoms_section_7_no_single_symptom.mp3</item>
+		<item>no_single_symptom</item>
+		<item>"7"</item>
+	</array>	
+	<!-- Symptoms Quiz -->
+		<!-- True or False: if I feel sad, I have depression -->
+	<array name="scene_13">
+	    <item>answers/quiz_2.0</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/symptoms_section_quiz_1_if_i_feel_sad.mp3</item>
+		<item>"2"</item>
+	</array>
+		<!-- The following are all symptoms of depression EXCEPT: -->
+	<array name="scene_14">
+	    <item>answers/quiz_2.1</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/symptoms_section_quiz_2_symptoms_except.mp3</item>
+		<item>"2"</item>
+	</array>
+	
+	<!-- DIAGNOSIS -->
+	<!-- Diagnosis Info -->
+		<!-- Diagnosis -->
+	<array name="scene_15">
+		<item>walk_video.mp4</item>
+		<item>mp3s/diagnosis_section_1_diagnosis.mp3</item>
+		<item>diagnosis</item>
+		<item>"2"</item>
+	</array>
+		<!-- What Can Your Doctor Do? -->
+	<array name="scene_16">
+		<item>walk_video.mp4</item>
+		<item>mp3s/diagnosis_section_2_what_can_your_doctor_do.mp3</item>
+		<item>diagnosis_doctor</item>
+		<item>"2"</item>
+	</array>
+	<!-- Diagnosis Quiz -->
+		<!-- What is the most effective treatment for depression? -->
+	<array name="scene_17">
+	    <item>answers/quiz_3.0</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/diagnosis_section_quiz_1_most_effective_treatment.mp3</item>
+		<item>"2"</item>
+	</array>
+		<!-- Diagnosis Quiz 1 -->
+	<array name="scene_18">
+	    <item>answers/quiz_3.1</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/diagnosis_section_quiz_2_talk_to_family_and_friends.mp3</item>
+		<item>"2"</item>
+	</array>
+	
+	<!-- CAUSES -->
+	<!-- Causes Info -->
+		<!-- Causes -->
+	<array name="scene_19">
+		<item>causes_video.mp4</item>
+		<item>mp3s/causes_section_1_causes.mp3</item>
+		<item>causes</item>
+		<item>"7"</item>
+	</array>
+		<!-- Life Events -->
+	<array name="scene_20">
+		<item>causes_video.mp4</item>
+		<item>mp3s/causes_section_2_life_events.mp3</item>
+		<item>life_events</item>
+		<item>"7"</item>
+	</array>
+		<!-- Conflict -->
+	<array name="scene_21">
+		<item>conflict_video.mp4</item>
+		<item>mp3s/causes_section_3_conflict.mp3</item>
+		<item>conflict</item>
+		<item>"7"</item>
+	</array>	
+		<!-- Some Medications Cause Depression -->
+	<array name="scene_22">
+		<item>medication_video.mp4</item>
+		<item>mp3s/causes_section_4_some_medications.mp3</item>
+		<item>medications_cause</item>
+		<item>"7"</item>
+	</array>
+		<!-- Family History -->
+	<array name="scene_23">
+		<item>hereditary_video.mp4</item>
+		<item>mp3s/causes_section_5_family_history.mp3</item>
+		<item>family_history</item>
+		<item>"7"</item>
+	</array>
+		<!-- Hormones and Chemicals in Your Body -->
+	<array name="scene_24">
+		<item>postpartum_video.mp4</item>
+		<item>mp3s/causes_section_6_hormones_in_your_body.mp3</item>
+		<item>hormones</item>
+		<item>"7"</item>
+	</array>
+		<!-- Depression is Not Your Fault -->
+	<array name="scene_25">
+		<item>doctor_talk.mp4</item>
+		<item>mp3s/causes_section_7_depression_is_not_your_fault.mp3</item>
+		<item>depression_no_fault</item>
+		<item>"7"</item>
+	</array>
+	<!-- Causes Quiz -->
+		<!-- Which of the following is NOT a possible cause of depression? -->
+	<array name="scene_26">
+	    <item>answers/quiz_4.0</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/causes_section_quiz_1_not_possible_cause.mp3</item>
+		<item>"2"</item>
+	</array>
+		<!-- What can you do to avoid becoming depressed? -->
+	<array name="scene_27">
+	    <item>answers/quiz_4.1</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/causes_section_quiz_2_avoid_becoming_depressed.mp3</item>
+		<item>"2"</item>
+	</array>
+	
+	<!-- TREATMENT -->
+	<!-- Treatment Info -->
+		<!-- Treatment -->
+	<array name="scene_28">
+		<item>days_meds_video.mp4</item>
+		<item>mp3s/treatment_section_1_treatment.mp3</item>
+		<item>treatment</item>
+		<item>"6"</item>
+	</array>
+		<!-- Types of Anti-Depressants: SSRIs -->
+	<array name="scene_29">
+		<item>days_meds_video.mp4</item>
+		<item>mp3s/treatment_section_2_types_ssris.mp3</item>
+		<item>ssris</item>
+		<item>"6"</item>
+	</array>
+		<!-- Types of Anti-Depressants: SNRIs -->
+	<array name="scene_30">
+		<item>days_meds_video.mp4</item>
+		<item>mp3s/treatment_section_3_types_snris.mp3</item>
+		<item>snris</item>
+		<item>"6"</item>
+	</array>
+
+		<!-- Types of Anti-Depressants: Less Common Drugs -->
+	<array name="scene_31">
+		<item>days_meds_video.mp4</item>
+		<item>mp3s/treatment_section_4_types_less_common_drugs.mp3</item>
+		<item>other_meds</item>
+		<item>"6"</item>
+	</array>
+		<!-- Therapy -->
+	<array name="scene_32">
+		<item>therapy_video.mp4</item>
+		<item>mp3s/treatment_section_5_therapy.mp3</item>
+		<item>therapy</item>
+		<item>"6"</item>
+	</array>
+		<!-- Continue Taking Your Medicine -->
+	<array name="scene_33">
+		<item>time_meds_video.mp4</item>
+		<item>mp3s/treatment_section_6_continue_taking_medicine.mp3</item>
+		<item>continue_meds</item>
+		<item>"6"</item>
+	</array>	
+	<!-- Treatment Quiz -->
+		<!-- When Should You Stop Taking Your Medicine? -->
+	<array name="scene_34">
+	    <item>answers/quiz_5.0</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/treatment_section_quiz_1_when_stop_taking_medicine.mp3</item>
+		<item>"2"</item>
+	</array>
+		<!-- What should you expect from your antidepressant medication? -->
+	<array name="scene_35">
+	    <item>answers/quiz_5.1</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/treatment_section_quiz_2_what_to_expect_from_medication.mp3</item>
+		<item>"2"</item>
+	</array>
+	
+	<!-- FINAL QUIZ -->
+		<!-- What is NOT a reason people get depressed? -->
+	<array name="scene_36">
+	    <item>answers/quiz_6.0</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/final_quiz_1_not_reason_get_depressed.mp3</item>
+		<item>"5"</item>
+	</array>
+		<!-- How many kinds of depression are there? -->
+	<array name="scene_37">
+	    <item>answers/quiz_6.1</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/final_quiz_2_how_many_kinds_of_depression_are_there.mp3</item>
+		<item>"5"</item>
+	</array>
+		<!-- Can you be depressed and not know it? -->
+	<array name="scene_38">
+	    <item>answers/quiz_6.2</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/final_quiz_3_can_you_be_depressed_and_not_know_it.mp3</item>
+		<item>"5"</item>
+	</array>
+		<!-- Is severe depression a regular response to life or is it a serious disease? -->
+	<array name="scene_39">
+	    <item>answers/quiz_6.3</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/final_ quiz_4_is_severe_depression_a_regular_response.mp3</item>
+		<item>"5"</item>
+	</array>
+		<!-- What percentage of people in the United States are estimated to suffer from depression? -->
+	<array name="scene_40">
+	    <item>answers/quiz_6.4</item>
+		<item>question_video.mp4</item>
+		<item>mp3s/final_ quiz_5_what_percent_of_people_in_the_united_states.mp3</item>
+		<item>"5"</item>
+	</array>
+	
+	<array name="scenes">
+		<item>@array/scene_1</item>
+		<item>@array/scene_2</item>
+		<item>@array/scene_3</item>
+		<item>@array/scene_4</item>
+		<item>@array/scene_5</item>
+		<item>@array/scene_6</item>
+		<item>@array/scene_7</item>
+		<item>@array/scene_8</item>
+		<item>@array/scene_9</item>
+		<item>@array/scene_10</item>
+		<item>@array/scene_11</item>
+		<item>@array/scene_12</item>
+		<item>@array/scene_13</item>
+		<item>@array/scene_14</item>
+		<item>@array/scene_15</item>
+		<item>@array/scene_16</item>
+		<item>@array/scene_17</item>
+		<item>@array/scene_18</item>
+		<item>@array/scene_19</item>
+		<item>@array/scene_20</item>
+		<item>@array/scene_21</item>
+		<item>@array/scene_22</item>
+		<item>@array/scene_23</item>
+		<item>@array/scene_24</item>
+		<item>@array/scene_26</item>
+		<item>@array/scene_26</item>
+		<item>@array/scene_27</item>
+		<item>@array/scene_28</item>
+		<item>@array/scene_29</item>
+		<item>@array/scene_30</item>
+		<item>@array/scene_31</item>
+		<item>@array/scene_32</item>
+		<item>@array/scene_33</item>
+		<item>@array/scene_34</item>
+		<item>@array/scene_35</item>
+		<item>@array/scene_36</item>
+		<item>@array/scene_37</item>
+		<item>@array/scene_38</item>
+		<item>@array/scene_39</item>
+		<item>@array/scene_40</item>
+	</array>
+	
+	<string-array name="title_names">
+	    <item >Introductory Quiz</item>
+		<item >Symptoms</item>
+		<item >Diagnosis</item>
+		<item >Causes</item>
+		<item >Treatment</item>
+		<item >End of Module Quiz</item>
+
+	</string-array>
+	
+	
+	
+
+</resources>
